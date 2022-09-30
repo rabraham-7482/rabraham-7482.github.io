@@ -1,13 +1,13 @@
-### User Page
+# User Page
 ## By: Rita Abraham
-# About Me
+### About Me
 I am currently a senior at UC San Diego. I am passionate about software, technology, and programming. I love to learn new things and am always looking forward to having new experiences. Software engineering is my ideal career path right now and so reeally looking forward to this class and all it has to offer!
-# Programming Experience
+### Programming Experience
 - Java
 - Python
 - Typescript
 - ReactJS
-# Previous Coursework
+### Previous Coursework
 > Restricted to courses taken at UC San Diego
 - CSE 8B
 - CSE 12
@@ -17,16 +17,16 @@ I am currently a senior at UC San Diego. I am passionate about software, technol
 - CSE 101
 - CSE 105
 - CSE 182
-# Soft Skills
+### Soft Skills
 - Hardworking
 - Team Player
 - Open Minded
 - Good Communicator
-# Goals For The Quarter
+### Goals For The Quarter
 - [] Attend Class
 - [] Collaborate well with my team
 - [] Don't procrastinate
-# Fun Facts
+### Fun Facts
 * __Favorite Color:__ Blue 
 * __Favorite Animal:__ Dog _(Have a pet Maltipoo)_
 * __Favorite Place:__ Anywhere in Europe
@@ -35,11 +35,11 @@ I am currently a senior at UC San Diego. I am passionate about software, technol
     2. Watch Movies
     3. Go to the Beach
 _[Navigate to README](README.md)_
-# Resources Used
+### Resources Used
 [GitHub Pages](https://pages.github.com/)
 [Basic Writing and Format Syntaz](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 [Configuring a Pubishing Source for you GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-# Tools Used
+### Tools Used
 - VSCode
 - Git
   - Commands:
