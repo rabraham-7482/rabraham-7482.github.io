@@ -1,6 +1,7 @@
 # User Page
 ## By: Rita Abraham
 ### About Me
+[screeenshot](screenshots/Command%20Line%20Git.png)
 I am currently a senior at UC San Diego. I am passionate about software, technology, and programming. I love to learn new things and am always looking forward to having new experiences. Software engineering is my ideal career path right now and so reeally looking forward to this class and all it has to offer!
 ### Programming Experience
 - Java
