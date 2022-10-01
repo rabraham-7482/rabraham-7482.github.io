@@ -47,8 +47,8 @@ I am currently a senior at UC San Diego. I am passionate about software, technol
     3. Go to the Beach
 _[Navigate to README](README.md)_
 ### Resources Used
-[GitHub Pages](https://pages.github.com/)
-[Basic Writing and Format Syntaz](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+[GitHub Pages](https://pages.github.com/)\
+[Basic Writing and Format Syntaz](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)\
 [Configuring a Pubishing Source for you GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 ### Tools Used
 - VSCode
