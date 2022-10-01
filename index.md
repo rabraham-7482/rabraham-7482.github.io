@@ -1,7 +1,7 @@
 # User Page
 ## By: Rita Abraham
 ### About Me
-![picture of me](../images/IMG_5831.JPG)
+![picture of me](images/IMG_5831.JPG)
 I am currently a senior at UC San Diego. I am passionate about software, technology, and programming. I love to learn new things and am always looking forward to having new experiences. Software engineering is my ideal career path right now and so reeally looking forward to this class and all it has to offer!
 ### Programming Experience
 - Java
@@ -30,7 +30,7 @@ I am currently a senior at UC San Diego. I am passionate about software, technol
 ### Fun Facts
 * __Favorite Color:__ Blue 
 * __Favorite Animal:__ Dog _(Have a pet Maltipoo)_
-  ![picture of my dog](../images/2020_ONAM0002_Original.GIF)
+  ![picture of my dog](images/2020_ONAM0002_Original.GIF)
 * __Favorite Place:__ Anywhere in Europe
 * __Top 3 Favorite Things To Do:__
     1. Travel
