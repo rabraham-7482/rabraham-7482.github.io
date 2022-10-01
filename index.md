@@ -1,6 +1,7 @@
 # User Page
 ## By: Rita Abraham
 ### About Me
+[picture of me](../images/IMG_5831.JPG)
 I am currently a senior at UC San Diego. I am passionate about software, technology, and programming. I love to learn new things and am always looking forward to having new experiences. Software engineering is my ideal career path right now and so reeally looking forward to this class and all it has to offer!
 ### Programming Experience
 - Java
@@ -23,12 +24,13 @@ I am currently a senior at UC San Diego. I am passionate about software, technol
 - Open Minded
 - Good Communicator
 ### Goals For The Quarter
-- [ ] Attend Class
+- [x] Attend Class (so far)
 - [ ] Collaborate well with my team
 - [ ] Don't procrastinate
 ### Fun Facts
 * __Favorite Color:__ Blue 
 * __Favorite Animal:__ Dog _(Have a pet Maltipoo)_
+  [picture of my dog](../images/2020_ONAM0002_Original.GIF)
 * __Favorite Place:__ Anywhere in Europe
 * __Top 3 Favorite Things To Do:__
     1. Travel
@@ -51,17 +53,3 @@ _[Navigate to README](README.md)_
     git push
     ```
 - Markdown
-
-
-
-
-Headings __done__
-Styling text __done__
-Quoting text __done__
-Quoting code __done__
-External Links __done__
-Section links
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.) __done__
-Ordered Lists __done__
-Unordered Lists __done__
-Task lists __done__
