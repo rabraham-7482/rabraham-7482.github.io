@@ -37,15 +37,14 @@ I am currently a senior at UC San Diego. I am passionate about software, technol
 - [ ] Collaborate well with my team
 - [ ] Don't procrastinate
 ### Fun Facts
-* __Favorite Color:__ Blue 
-* __Favorite Animal:__ Dog _(Have a pet Maltipoo)_
+- __Favorite Color:__ Blue 
+- __Favorite Animal:__ Dog _(Have a pet Maltipoo)_
   ![PictureOfMyDog](images/2020_ONAM0002_Original.GIF)
-* __Favorite Place:__ Anywhere in Europe
-* __Top 3 Favorite Things To Do:__
+- __Favorite Place:__ Anywhere in Europe
+- __Top 3 Favorite Things To Do:__
     1. Travel
     2. Watch Movies
     3. Go to the Beach
-_[Navigate to README](README.md)_
 ### Resources Used
 [GitHub Pages](https://pages.github.com/)\
 [Basic Writing and Format Syntaz](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)\
@@ -62,3 +61,5 @@ _[Navigate to README](README.md)_
     git push
     ```
 - Markdown
+
+_[Navigate to README](README.md)_
