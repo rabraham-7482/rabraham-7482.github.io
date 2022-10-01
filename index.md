@@ -23,9 +23,9 @@ I am currently a senior at UC San Diego. I am passionate about software, technol
 - Open Minded
 - Good Communicator
 ### Goals For The Quarter
-[ ] Attend Class
-[ ] Collaborate well with my team
-[ ] Don't procrastinate
+- [ ] Attend Class
+- [ ] Collaborate well with my team
+- [ ] Don't procrastinate
 ### Fun Facts
 * __Favorite Color:__ Blue 
 * __Favorite Animal:__ Dog _(Have a pet Maltipoo)_
