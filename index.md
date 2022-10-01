@@ -1,5 +1,14 @@
 # User Page
 ## By: Rita Abraham
+### Contents
+[About Me](#about-me)
+[Programming Experience](#programming-experience)
+[Previous Coursework](#previous-coursework)
+[Soft Skills](#soft-skills)
+[Goals For The Quarter](#goals-for-the-quarter)
+[Fun Facts](#fun-facts)
+[Resources Used](#fun-facts)
+[Tools Used](#tools-used)
 ### About Me
 ![PictureOfMe](images/IMG_5831.JPG)
 I am currently a senior at UC San Diego. I am passionate about software, technology, and programming. I love to learn new things and am always looking forward to having new experiences. Software engineering is my ideal career path right now and so reeally looking forward to this class and all it has to offer!
