@@ -1,13 +1,13 @@
 # User Page
 ## By: Rita Abraham
 ### Contents
-[About Me](#about-me)
-[Programming Experience](#programming-experience)
-[Previous Coursework](#previous-coursework)
-[Soft Skills](#soft-skills)
-[Goals For The Quarter](#goals-for-the-quarter)
-[Fun Facts](#fun-facts)
-[Resources Used](#fun-facts)
+[About Me](#about-me)\
+[Programming Experience](#programming-experience)\
+[Previous Coursework](#previous-coursework)\
+[Soft Skills](#soft-skills)\
+[Goals For The Quarter](#goals-for-the-quarter)\
+[Fun Facts](#fun-facts)\
+[Resources Used](#resources-used)\
 [Tools Used](#tools-used)
 ### About Me
 ![PictureOfMe](images/IMG_5831.JPG)
